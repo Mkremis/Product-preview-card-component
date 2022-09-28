@@ -107,7 +107,9 @@ body {
   border: 0;
   border-radius: 5px;
 }
-
+.card-description__button:hover {
+  background-color: hsl(157, 37%, 19%);
+}
 @media (min-width: 1140px) {
   .card {
     top: 50%;
